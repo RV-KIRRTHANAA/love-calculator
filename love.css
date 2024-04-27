@@ -1,0 +1,45 @@
+.container{
+        width: 300px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: rgb(224, 147, 159);
+        margin-bottom: 200px;
+        margin-left: 700px;
+        margin-top: 100px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button{
+  background-color: #972e4d;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+button:hover{
+    background-color: rgb(73, 24, 49);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('annie-spratt-waTiFNu4CRY-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
